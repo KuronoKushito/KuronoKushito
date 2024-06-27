@@ -1,19 +1,21 @@
 <!--Banner-->
 
-
+<hr1>
+Hello
+</hr1>
 
 <!--Header Name-->
 
 <!--Start Intro-->               
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
-- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
-- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
-- ❤ Contributing to Open Source.
-- 💻 Visit my [Portfolio](https://kiran1689.github.io) for more details about me.
+Student of life :-)
+- 🌱 I am currently learning many things, I believe that every day is an opportunity to learn and will continue.
+- 🏙 Student at Politeknik Negeri Tanah Laut
+- ✍ I create various kinds of websites
+- ❤ Contribute to Organization
+
+
 <!--End Intro-->
 
 <!--Profile Count Badge-->
