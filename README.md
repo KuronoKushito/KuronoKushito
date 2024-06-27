@@ -7,7 +7,7 @@ Hello
 <!--Header Name-->
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I have extensive experience in web design and development, reinforced by my background in graphic design and programming. Over the past three years, I have honed my skills in graphic design. After three years of focusing on graphic design, I expanded my skills by learning programming languages relevant to web development.. </p>
 
 Student of life :-)
 - 🌱 I am currently learning many things, I believe that every day is an opportunity to learn and will continue.
